@@ -47,5 +47,9 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>To display AR visualisations based on speech input</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>To detect speech input</string>
 </dict>
 </plist>
