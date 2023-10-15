@@ -22,5 +22,5 @@ This is a state-of-the-art visualisation tool with infinite use-cases. speakAR w
 3. **Instant Visualization:** Watch as your description is instantly converted into a 3D model and overlayed onto your surroundings.
 4. **Interact:** Use touch or gesture controls to interact with the image, such as rotating or animating it.
 
-### Too Long, Didn't Read (TLDR)
+### Too Long; Didn't Read (TL;DR)
 ![Frame 2](https://github.com/rchtgpt/NL2AR/assets/44428198/c22ba896-5249-4843-bd55-278ad0da29a7)
