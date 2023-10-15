@@ -8,10 +8,10 @@ SpeakAR is a mobile application powered by Natural Language Processing and 3D Ge
 The state-of-the-art technologye can be used as a powerful AI tool that has infinite possibilities. From artistic expression, innovation, and practical use-cases speakAR can be leveraged by other developers. It revolutionizes communication in the digital age and breaks down language barriers. Its scope can be expanded to education as a visual supplement to verbal lectures. 
 ## Features
 
-**Natural Language Processing (NLP):** Converting complex natural language to text.
-**3D Generative AI:** Uses MirageML, DreamFusion, PointE, and ShapeE to generate 3D models of the inputted speech and ensures conversion from text to 3D is accurate, smooth, and free from distortions.
-**Augmented Reality (AR) Integration:** Overlay the generated 3D visuals onto the real world for an immersive experience using ARkit/ARcore.
-**Mobile Application:** Cross platform interactive application created using Flutter, Dart, Xcode, Android studio.
+**Natural Language Processing (NLP):** Converting complex natural language to text. </br>
+**3D Generative AI:** Uses MirageML, DreamFusion, PointE, and ShapeE to generate 3D models of the inputted speech and ensures conversion from text to 3D is accurate, smooth, and free from distortions.</br>
+**Augmented Reality (AR) Integration:** Overlay the generated 3D visuals onto the real world for an immersive experience using ARkit/ARcore.</br>
+**Mobile Application:** Cross platform interactive application created using Flutter, Dart, Xcode, Android studio.</br>
 
 ## How to Use
 
