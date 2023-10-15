@@ -23,4 +23,5 @@ This is a state-of-the-art visualisation tool with infinite use-cases. speakAR w
 4. **Interact:** Use touch or gesture controls to interact with the image, such as rotating or animating it.
 
 ### Too Long; Didn't Read (TL;DR)
-![Frame 2](https://github.com/rchtgpt/NL2AR/assets/44428198/c22ba896-5249-4843-bd55-278ad0da29a7)
+![Frame 2 (1)](https://github.com/rchtgpt/NL2AR/assets/62983108/d49399b7-0a27-444c-b72a-92a503c28604)
+
